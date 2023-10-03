@@ -12,6 +12,6 @@ Python > 2.7<br />
 
 Just execute the script. Inline parameteres have been removed due to the specific use of the script.<br />
 
-syntax: python3 pa_upgrade.exe<br />
+syntax: python3 pa_upgrade.py<br />
 
 Enjoy :)
